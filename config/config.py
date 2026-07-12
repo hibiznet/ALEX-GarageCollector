@@ -1,0 +1,2 @@
+API_URL="https://api.data.go.kr/openapi/tn_pubr_public_auto_maintenance_company_api"
+SERVICE_KEY="bf754e200cf1efce83b31b4ed3460e701ce60f8bc660b5eae19543dae8b23dc6"
